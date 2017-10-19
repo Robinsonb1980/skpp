@@ -1,0 +1,27 @@
+{
+  "name": "skpp",
+  "version": "1.0.0",
+  "description": "Portal App for Star Kat Productions",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robinsonb1980/skpp.git"
+  },
+  "keywords": [
+    "Portal",
+    "Galleries",
+    "Chat"
+  ],
+  "author": "Brian Robinson",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/robinsonb1980/skpp/issues"
+  },
+  "homepage": "https://github.com/robinsonb1980/skpp#readme",
+  "dependencies": {
+    "electron-window-state": "^4.1.1"
+  }
+}
